@@ -18,4 +18,4 @@ void draw(){
   posX = posX + vel;
   posY = posY + vel;
 }
-//Só não sei como fazer para a bolinha mudar de direção quando bate nas bordas. 
+
